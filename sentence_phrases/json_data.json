@@ -1,0 +1,1190 @@
+{
+    "SentenceID_1": {
+        "text": "what is best price",
+        "end": 18,
+        "start": 8,
+        "value": "best price"
+    },
+    "SentenceID_2": {
+        "text": "what is best prices",
+        "end": 19,
+        "start": 8,
+        "value": "best prices"
+    },
+    "SentenceID_3": {
+        "text": "what is final price",
+        "end": 19,
+        "start": 8,
+        "value": "final price"
+    },
+    "SentenceID_4": {
+        "text": "what is final offer",
+        "end": 19,
+        "start": 8,
+        "value": "final offer"
+    },
+    "SentenceID_5": {
+        "text": "what is best offer",
+        "end": 18,
+        "start": 8,
+        "value": "best offer"
+    },
+    "SentenceID_6": {
+        "text": "what is best rate",
+        "end": 17,
+        "start": 8,
+        "value": "best rate"
+    },
+    "SentenceID_7": {
+        "text": "what is discount",
+        "end": 16,
+        "start": 8,
+        "value": "discount"
+    },
+    "SentenceID_8": {
+        "text": "what is last price",
+        "end": 18,
+        "start": 8,
+        "value": "last price"
+    },
+    "SentenceID_9": {
+        "text": "what is last rate",
+        "end": 17,
+        "start": 8,
+        "value": "last rate"
+    },
+    "SentenceID_10": {
+        "text": "what is max discount",
+        "end": 20,
+        "start": 8,
+        "value": "max discount"
+    },
+    "SentenceID_11": {
+        "text": "what is maximum discount",
+        "end": 24,
+        "start": 8,
+        "value": "maximum discount"
+    },
+    "SentenceID_12": {
+        "text": "tell me best price",
+        "end": 18,
+        "start": 8,
+        "value": "best price"
+    },
+    "SentenceID_13": {
+        "text": "tell me best prices",
+        "end": 19,
+        "start": 8,
+        "value": "best prices"
+    },
+    "SentenceID_14": {
+        "text": "tell me final price",
+        "end": 19,
+        "start": 8,
+        "value": "final price"
+    },
+    "SentenceID_15": {
+        "text": "tell me final offer",
+        "end": 19,
+        "start": 8,
+        "value": "final offer"
+    },
+    "SentenceID_16": {
+        "text": "tell me best offer",
+        "end": 18,
+        "start": 8,
+        "value": "best offer"
+    },
+    "SentenceID_17": {
+        "text": "tell me best rate",
+        "end": 17,
+        "start": 8,
+        "value": "best rate"
+    },
+    "SentenceID_18": {
+        "text": "tell me discount",
+        "end": 16,
+        "start": 8,
+        "value": "discount"
+    },
+    "SentenceID_19": {
+        "text": "tell me last price",
+        "end": 18,
+        "start": 8,
+        "value": "last price"
+    },
+    "SentenceID_20": {
+        "text": "tell me last rate",
+        "end": 17,
+        "start": 8,
+        "value": "last rate"
+    },
+    "SentenceID_21": {
+        "text": "tell me max discount",
+        "end": 20,
+        "start": 8,
+        "value": "max discount"
+    },
+    "SentenceID_22": {
+        "text": "tell me maximum discount",
+        "end": 24,
+        "start": 8,
+        "value": "maximum discount"
+    },
+    "SentenceID_23": {
+        "text": "offer us best price",
+        "end": 19,
+        "start": 9,
+        "value": "best price"
+    },
+    "SentenceID_24": {
+        "text": "offer us best prices",
+        "end": 20,
+        "start": 9,
+        "value": "best prices"
+    },
+    "SentenceID_25": {
+        "text": "offer us final price",
+        "end": 20,
+        "start": 9,
+        "value": "final price"
+    },
+    "SentenceID_26": {
+        "text": "offer us final offer",
+        "end": 20,
+        "start": 9,
+        "value": "final offer"
+    },
+    "SentenceID_27": {
+        "text": "offer us best offer",
+        "end": 19,
+        "start": 9,
+        "value": "best offer"
+    },
+    "SentenceID_28": {
+        "text": "offer us best rate",
+        "end": 18,
+        "start": 9,
+        "value": "best rate"
+    },
+    "SentenceID_29": {
+        "text": "offer us discount",
+        "end": 17,
+        "start": 9,
+        "value": "discount"
+    },
+    "SentenceID_30": {
+        "text": "offer us last price",
+        "end": 19,
+        "start": 9,
+        "value": "last price"
+    },
+    "SentenceID_31": {
+        "text": "offer us last rate",
+        "end": 18,
+        "start": 9,
+        "value": "last rate"
+    },
+    "SentenceID_32": {
+        "text": "offer us max discount",
+        "end": 21,
+        "start": 9,
+        "value": "max discount"
+    },
+    "SentenceID_33": {
+        "text": "offer us maximum discount",
+        "end": 25,
+        "start": 9,
+        "value": "maximum discount"
+    },
+    "SentenceID_34": {
+        "text": "offer me best price",
+        "end": 19,
+        "start": 9,
+        "value": "best price"
+    },
+    "SentenceID_35": {
+        "text": "offer me best prices",
+        "end": 20,
+        "start": 9,
+        "value": "best prices"
+    },
+    "SentenceID_36": {
+        "text": "offer me final price",
+        "end": 20,
+        "start": 9,
+        "value": "final price"
+    },
+    "SentenceID_37": {
+        "text": "offer me final offer",
+        "end": 20,
+        "start": 9,
+        "value": "final offer"
+    },
+    "SentenceID_38": {
+        "text": "offer me best offer",
+        "end": 19,
+        "start": 9,
+        "value": "best offer"
+    },
+    "SentenceID_39": {
+        "text": "offer me best rate",
+        "end": 18,
+        "start": 9,
+        "value": "best rate"
+    },
+    "SentenceID_40": {
+        "text": "offer me discount",
+        "end": 17,
+        "start": 9,
+        "value": "discount"
+    },
+    "SentenceID_41": {
+        "text": "offer me last price",
+        "end": 19,
+        "start": 9,
+        "value": "last price"
+    },
+    "SentenceID_42": {
+        "text": "offer me last rate",
+        "end": 18,
+        "start": 9,
+        "value": "last rate"
+    },
+    "SentenceID_43": {
+        "text": "offer me max discount",
+        "end": 21,
+        "start": 9,
+        "value": "max discount"
+    },
+    "SentenceID_44": {
+        "text": "offer me maximum discount",
+        "end": 25,
+        "start": 9,
+        "value": "maximum discount"
+    },
+    "SentenceID_45": {
+        "text": "let's talk best price",
+        "end": 21,
+        "start": 11,
+        "value": "best price"
+    },
+    "SentenceID_46": {
+        "text": "let's talk best prices",
+        "end": 22,
+        "start": 11,
+        "value": "best prices"
+    },
+    "SentenceID_47": {
+        "text": "let's talk final price",
+        "end": 22,
+        "start": 11,
+        "value": "final price"
+    },
+    "SentenceID_48": {
+        "text": "let's talk final offer",
+        "end": 22,
+        "start": 11,
+        "value": "final offer"
+    },
+    "SentenceID_49": {
+        "text": "let's talk best offer",
+        "end": 21,
+        "start": 11,
+        "value": "best offer"
+    },
+    "SentenceID_50": {
+        "text": "let's talk best rate",
+        "end": 20,
+        "start": 11,
+        "value": "best rate"
+    },
+    "SentenceID_51": {
+        "text": "let's talk discount",
+        "end": 19,
+        "start": 11,
+        "value": "discount"
+    },
+    "SentenceID_52": {
+        "text": "let's talk last price",
+        "end": 21,
+        "start": 11,
+        "value": "last price"
+    },
+    "SentenceID_53": {
+        "text": "let's talk last rate",
+        "end": 20,
+        "start": 11,
+        "value": "last rate"
+    },
+    "SentenceID_54": {
+        "text": "let's talk max discount",
+        "end": 23,
+        "start": 11,
+        "value": "max discount"
+    },
+    "SentenceID_55": {
+        "text": "let's talk maximum discount",
+        "end": 27,
+        "start": 11,
+        "value": "maximum discount"
+    },
+    "SentenceID_56": {
+        "text": "what is your best price",
+        "end": 23,
+        "start": 13,
+        "value": "best price"
+    },
+    "SentenceID_57": {
+        "text": "what is your best prices",
+        "end": 24,
+        "start": 13,
+        "value": "best prices"
+    },
+    "SentenceID_58": {
+        "text": "what is your final price",
+        "end": 24,
+        "start": 13,
+        "value": "final price"
+    },
+    "SentenceID_59": {
+        "text": "what is your final offer",
+        "end": 24,
+        "start": 13,
+        "value": "final offer"
+    },
+    "SentenceID_60": {
+        "text": "what is your best offer",
+        "end": 23,
+        "start": 13,
+        "value": "best offer"
+    },
+    "SentenceID_61": {
+        "text": "what is your best rate",
+        "end": 22,
+        "start": 13,
+        "value": "best rate"
+    },
+    "SentenceID_62": {
+        "text": "what is your discount",
+        "end": 21,
+        "start": 13,
+        "value": "discount"
+    },
+    "SentenceID_63": {
+        "text": "what is your last price",
+        "end": 23,
+        "start": 13,
+        "value": "last price"
+    },
+    "SentenceID_64": {
+        "text": "what is your last rate",
+        "end": 22,
+        "start": 13,
+        "value": "last rate"
+    },
+    "SentenceID_65": {
+        "text": "what is your max discount",
+        "end": 25,
+        "start": 13,
+        "value": "max discount"
+    },
+    "SentenceID_66": {
+        "text": "what is your maximum discount",
+        "end": 29,
+        "start": 13,
+        "value": "maximum discount"
+    },
+    "SentenceID_67": {
+        "text": "tell your best price",
+        "end": 20,
+        "start": 10,
+        "value": "best price"
+    },
+    "SentenceID_68": {
+        "text": "tell your best prices",
+        "end": 21,
+        "start": 10,
+        "value": "best prices"
+    },
+    "SentenceID_69": {
+        "text": "tell your final price",
+        "end": 21,
+        "start": 10,
+        "value": "final price"
+    },
+    "SentenceID_70": {
+        "text": "tell your final offer",
+        "end": 21,
+        "start": 10,
+        "value": "final offer"
+    },
+    "SentenceID_71": {
+        "text": "tell your best offer",
+        "end": 20,
+        "start": 10,
+        "value": "best offer"
+    },
+    "SentenceID_72": {
+        "text": "tell your best rate",
+        "end": 19,
+        "start": 10,
+        "value": "best rate"
+    },
+    "SentenceID_73": {
+        "text": "tell your discount",
+        "end": 18,
+        "start": 10,
+        "value": "discount"
+    },
+    "SentenceID_74": {
+        "text": "tell your last price",
+        "end": 20,
+        "start": 10,
+        "value": "last price"
+    },
+    "SentenceID_75": {
+        "text": "tell your last rate",
+        "end": 19,
+        "start": 10,
+        "value": "last rate"
+    },
+    "SentenceID_76": {
+        "text": "tell your max discount",
+        "end": 22,
+        "start": 10,
+        "value": "max discount"
+    },
+    "SentenceID_77": {
+        "text": "tell your maximum discount",
+        "end": 26,
+        "start": 10,
+        "value": "maximum discount"
+    },
+    "SentenceID_78": {
+        "text": "make your best price",
+        "end": 20,
+        "start": 10,
+        "value": "best price"
+    },
+    "SentenceID_79": {
+        "text": "make your best prices",
+        "end": 21,
+        "start": 10,
+        "value": "best prices"
+    },
+    "SentenceID_80": {
+        "text": "make your final price",
+        "end": 21,
+        "start": 10,
+        "value": "final price"
+    },
+    "SentenceID_81": {
+        "text": "make your final offer",
+        "end": 21,
+        "start": 10,
+        "value": "final offer"
+    },
+    "SentenceID_82": {
+        "text": "make your best offer",
+        "end": 20,
+        "start": 10,
+        "value": "best offer"
+    },
+    "SentenceID_83": {
+        "text": "make your best rate",
+        "end": 19,
+        "start": 10,
+        "value": "best rate"
+    },
+    "SentenceID_84": {
+        "text": "make your discount",
+        "end": 18,
+        "start": 10,
+        "value": "discount"
+    },
+    "SentenceID_85": {
+        "text": "make your last price",
+        "end": 20,
+        "start": 10,
+        "value": "last price"
+    },
+    "SentenceID_86": {
+        "text": "make your last rate",
+        "end": 19,
+        "start": 10,
+        "value": "last rate"
+    },
+    "SentenceID_87": {
+        "text": "make your max discount",
+        "end": 22,
+        "start": 10,
+        "value": "max discount"
+    },
+    "SentenceID_88": {
+        "text": "make your maximum discount",
+        "end": 26,
+        "start": 10,
+        "value": "maximum discount"
+    },
+    "SentenceID_89": {
+        "text": "make it best price",
+        "end": 18,
+        "start": 8,
+        "value": "best price"
+    },
+    "SentenceID_90": {
+        "text": "make it best prices",
+        "end": 19,
+        "start": 8,
+        "value": "best prices"
+    },
+    "SentenceID_91": {
+        "text": "make it final price",
+        "end": 19,
+        "start": 8,
+        "value": "final price"
+    },
+    "SentenceID_92": {
+        "text": "make it final offer",
+        "end": 19,
+        "start": 8,
+        "value": "final offer"
+    },
+    "SentenceID_93": {
+        "text": "make it best offer",
+        "end": 18,
+        "start": 8,
+        "value": "best offer"
+    },
+    "SentenceID_94": {
+        "text": "make it best rate",
+        "end": 17,
+        "start": 8,
+        "value": "best rate"
+    },
+    "SentenceID_95": {
+        "text": "make it discount",
+        "end": 16,
+        "start": 8,
+        "value": "discount"
+    },
+    "SentenceID_96": {
+        "text": "make it last price",
+        "end": 18,
+        "start": 8,
+        "value": "last price"
+    },
+    "SentenceID_97": {
+        "text": "make it last rate",
+        "end": 17,
+        "start": 8,
+        "value": "last rate"
+    },
+    "SentenceID_98": {
+        "text": "make it max discount",
+        "end": 20,
+        "start": 8,
+        "value": "max discount"
+    },
+    "SentenceID_99": {
+        "text": "make it maximum discount",
+        "end": 24,
+        "start": 8,
+        "value": "maximum discount"
+    },
+    "SentenceID_100": {
+        "text": "how do I get best price",
+        "end": 23,
+        "start": 13,
+        "value": "best price"
+    },
+    "SentenceID_101": {
+        "text": "how do I get best prices",
+        "end": 24,
+        "start": 13,
+        "value": "best prices"
+    },
+    "SentenceID_102": {
+        "text": "how do I get final price",
+        "end": 24,
+        "start": 13,
+        "value": "final price"
+    },
+    "SentenceID_103": {
+        "text": "how do I get final offer",
+        "end": 24,
+        "start": 13,
+        "value": "final offer"
+    },
+    "SentenceID_104": {
+        "text": "how do I get best offer",
+        "end": 23,
+        "start": 13,
+        "value": "best offer"
+    },
+    "SentenceID_105": {
+        "text": "how do I get best rate",
+        "end": 22,
+        "start": 13,
+        "value": "best rate"
+    },
+    "SentenceID_106": {
+        "text": "how do I get discount",
+        "end": 21,
+        "start": 13,
+        "value": "discount"
+    },
+    "SentenceID_107": {
+        "text": "how do I get last price",
+        "end": 23,
+        "start": 13,
+        "value": "last price"
+    },
+    "SentenceID_108": {
+        "text": "how do I get last rate",
+        "end": 22,
+        "start": 13,
+        "value": "last rate"
+    },
+    "SentenceID_109": {
+        "text": "how do I get max discount",
+        "end": 25,
+        "start": 13,
+        "value": "max discount"
+    },
+    "SentenceID_110": {
+        "text": "how do I get maximum discount",
+        "end": 29,
+        "start": 13,
+        "value": "maximum discount"
+    },
+    "SentenceID_111": {
+        "text": "who can give me best price",
+        "end": 26,
+        "start": 16,
+        "value": "best price"
+    },
+    "SentenceID_112": {
+        "text": "who can give me best prices",
+        "end": 27,
+        "start": 16,
+        "value": "best prices"
+    },
+    "SentenceID_113": {
+        "text": "who can give me final price",
+        "end": 27,
+        "start": 16,
+        "value": "final price"
+    },
+    "SentenceID_114": {
+        "text": "who can give me final offer",
+        "end": 27,
+        "start": 16,
+        "value": "final offer"
+    },
+    "SentenceID_115": {
+        "text": "who can give me best offer",
+        "end": 26,
+        "start": 16,
+        "value": "best offer"
+    },
+    "SentenceID_116": {
+        "text": "who can give me best rate",
+        "end": 25,
+        "start": 16,
+        "value": "best rate"
+    },
+    "SentenceID_117": {
+        "text": "who can give me discount",
+        "end": 24,
+        "start": 16,
+        "value": "discount"
+    },
+    "SentenceID_118": {
+        "text": "who can give me last price",
+        "end": 26,
+        "start": 16,
+        "value": "last price"
+    },
+    "SentenceID_119": {
+        "text": "who can give me last rate",
+        "end": 25,
+        "start": 16,
+        "value": "last rate"
+    },
+    "SentenceID_120": {
+        "text": "who can give me max discount",
+        "end": 28,
+        "start": 16,
+        "value": "max discount"
+    },
+    "SentenceID_121": {
+        "text": "who can give me maximum discount",
+        "end": 32,
+        "start": 16,
+        "value": "maximum discount"
+    },
+    "SentenceID_122": {
+        "text": "whom should I talk to for best price",
+        "end": 36,
+        "start": 26,
+        "value": "best price"
+    },
+    "SentenceID_123": {
+        "text": "whom should I talk to for best prices",
+        "end": 37,
+        "start": 26,
+        "value": "best prices"
+    },
+    "SentenceID_124": {
+        "text": "whom should I talk to for final price",
+        "end": 37,
+        "start": 26,
+        "value": "final price"
+    },
+    "SentenceID_125": {
+        "text": "whom should I talk to for final offer",
+        "end": 37,
+        "start": 26,
+        "value": "final offer"
+    },
+    "SentenceID_126": {
+        "text": "whom should I talk to for best offer",
+        "end": 36,
+        "start": 26,
+        "value": "best offer"
+    },
+    "SentenceID_127": {
+        "text": "whom should I talk to for best rate",
+        "end": 35,
+        "start": 26,
+        "value": "best rate"
+    },
+    "SentenceID_128": {
+        "text": "whom should I talk to for discount",
+        "end": 34,
+        "start": 26,
+        "value": "discount"
+    },
+    "SentenceID_129": {
+        "text": "whom should I talk to for last price",
+        "end": 36,
+        "start": 26,
+        "value": "last price"
+    },
+    "SentenceID_130": {
+        "text": "whom should I talk to for last rate",
+        "end": 35,
+        "start": 26,
+        "value": "last rate"
+    },
+    "SentenceID_131": {
+        "text": "whom should I talk to for max discount",
+        "end": 38,
+        "start": 26,
+        "value": "max discount"
+    },
+    "SentenceID_132": {
+        "text": "whom should I talk to for maximum discount",
+        "end": 42,
+        "start": 26,
+        "value": "maximum discount"
+    },
+    "SentenceID_133": {
+        "text": "can you ask your boss for best price",
+        "end": 36,
+        "start": 26,
+        "value": "best price"
+    },
+    "SentenceID_134": {
+        "text": "can you ask your boss for best prices",
+        "end": 37,
+        "start": 26,
+        "value": "best prices"
+    },
+    "SentenceID_135": {
+        "text": "can you ask your boss for final price",
+        "end": 37,
+        "start": 26,
+        "value": "final price"
+    },
+    "SentenceID_136": {
+        "text": "can you ask your boss for final offer",
+        "end": 37,
+        "start": 26,
+        "value": "final offer"
+    },
+    "SentenceID_137": {
+        "text": "can you ask your boss for best offer",
+        "end": 36,
+        "start": 26,
+        "value": "best offer"
+    },
+    "SentenceID_138": {
+        "text": "can you ask your boss for best rate",
+        "end": 35,
+        "start": 26,
+        "value": "best rate"
+    },
+    "SentenceID_139": {
+        "text": "can you ask your boss for discount",
+        "end": 34,
+        "start": 26,
+        "value": "discount"
+    },
+    "SentenceID_140": {
+        "text": "can you ask your boss for last price",
+        "end": 36,
+        "start": 26,
+        "value": "last price"
+    },
+    "SentenceID_141": {
+        "text": "can you ask your boss for last rate",
+        "end": 35,
+        "start": 26,
+        "value": "last rate"
+    },
+    "SentenceID_142": {
+        "text": "can you ask your boss for max discount",
+        "end": 38,
+        "start": 26,
+        "value": "max discount"
+    },
+    "SentenceID_143": {
+        "text": "can you ask your boss for maximum discount",
+        "end": 42,
+        "start": 26,
+        "value": "maximum discount"
+    },
+    "SentenceID_144": {
+        "text": "can you check and get back with best price",
+        "end": 42,
+        "start": 32,
+        "value": "best price"
+    },
+    "SentenceID_145": {
+        "text": "can you check and get back with best prices",
+        "end": 43,
+        "start": 32,
+        "value": "best prices"
+    },
+    "SentenceID_146": {
+        "text": "can you check and get back with final price",
+        "end": 43,
+        "start": 32,
+        "value": "final price"
+    },
+    "SentenceID_147": {
+        "text": "can you check and get back with final offer",
+        "end": 43,
+        "start": 32,
+        "value": "final offer"
+    },
+    "SentenceID_148": {
+        "text": "can you check and get back with best offer",
+        "end": 42,
+        "start": 32,
+        "value": "best offer"
+    },
+    "SentenceID_149": {
+        "text": "can you check and get back with best rate",
+        "end": 41,
+        "start": 32,
+        "value": "best rate"
+    },
+    "SentenceID_150": {
+        "text": "can you check and get back with discount",
+        "end": 40,
+        "start": 32,
+        "value": "discount"
+    },
+    "SentenceID_151": {
+        "text": "can you check and get back with last price",
+        "end": 42,
+        "start": 32,
+        "value": "last price"
+    },
+    "SentenceID_152": {
+        "text": "can you check and get back with last rate",
+        "end": 41,
+        "start": 32,
+        "value": "last rate"
+    },
+    "SentenceID_153": {
+        "text": "can you check and get back with max discount",
+        "end": 44,
+        "start": 32,
+        "value": "max discount"
+    },
+    "SentenceID_154": {
+        "text": "can you check and get back with maximum discount",
+        "end": 48,
+        "start": 32,
+        "value": "maximum discount"
+    },
+    "SentenceID_155": {
+        "text": "can you get back on best price",
+        "end": 30,
+        "start": 20,
+        "value": "best price"
+    },
+    "SentenceID_156": {
+        "text": "can you get back on best prices",
+        "end": 31,
+        "start": 20,
+        "value": "best prices"
+    },
+    "SentenceID_157": {
+        "text": "can you get back on final price",
+        "end": 31,
+        "start": 20,
+        "value": "final price"
+    },
+    "SentenceID_158": {
+        "text": "can you get back on final offer",
+        "end": 31,
+        "start": 20,
+        "value": "final offer"
+    },
+    "SentenceID_159": {
+        "text": "can you get back on best offer",
+        "end": 30,
+        "start": 20,
+        "value": "best offer"
+    },
+    "SentenceID_160": {
+        "text": "can you get back on best rate",
+        "end": 29,
+        "start": 20,
+        "value": "best rate"
+    },
+    "SentenceID_161": {
+        "text": "can you get back on discount",
+        "end": 28,
+        "start": 20,
+        "value": "discount"
+    },
+    "SentenceID_162": {
+        "text": "can you get back on last price",
+        "end": 30,
+        "start": 20,
+        "value": "last price"
+    },
+    "SentenceID_163": {
+        "text": "can you get back on last rate",
+        "end": 29,
+        "start": 20,
+        "value": "last rate"
+    },
+    "SentenceID_164": {
+        "text": "can you get back on max discount",
+        "end": 32,
+        "start": 20,
+        "value": "max discount"
+    },
+    "SentenceID_165": {
+        "text": "can you get back on maximum discount",
+        "end": 36,
+        "start": 20,
+        "value": "maximum discount"
+    },
+    "SentenceID_166": {
+        "text": "propose me best price",
+        "end": 21,
+        "start": 11,
+        "value": "best price"
+    },
+    "SentenceID_167": {
+        "text": "propose me best prices",
+        "end": 22,
+        "start": 11,
+        "value": "best prices"
+    },
+    "SentenceID_168": {
+        "text": "propose me final price",
+        "end": 22,
+        "start": 11,
+        "value": "final price"
+    },
+    "SentenceID_169": {
+        "text": "propose me final offer",
+        "end": 22,
+        "start": 11,
+        "value": "final offer"
+    },
+    "SentenceID_170": {
+        "text": "propose me best offer",
+        "end": 21,
+        "start": 11,
+        "value": "best offer"
+    },
+    "SentenceID_171": {
+        "text": "propose me best rate",
+        "end": 20,
+        "start": 11,
+        "value": "best rate"
+    },
+    "SentenceID_172": {
+        "text": "propose me discount",
+        "end": 19,
+        "start": 11,
+        "value": "discount"
+    },
+    "SentenceID_173": {
+        "text": "propose me last price",
+        "end": 21,
+        "start": 11,
+        "value": "last price"
+    },
+    "SentenceID_174": {
+        "text": "propose me last rate",
+        "end": 20,
+        "start": 11,
+        "value": "last rate"
+    },
+    "SentenceID_175": {
+        "text": "propose me max discount",
+        "end": 23,
+        "start": 11,
+        "value": "max discount"
+    },
+    "SentenceID_176": {
+        "text": "propose me maximum discount",
+        "end": 27,
+        "start": 11,
+        "value": "maximum discount"
+    },
+    "SentenceID_177": {
+        "text": "propose us best price",
+        "end": 21,
+        "start": 11,
+        "value": "best price"
+    },
+    "SentenceID_178": {
+        "text": "propose us best prices",
+        "end": 22,
+        "start": 11,
+        "value": "best prices"
+    },
+    "SentenceID_179": {
+        "text": "propose us final price",
+        "end": 22,
+        "start": 11,
+        "value": "final price"
+    },
+    "SentenceID_180": {
+        "text": "propose us final offer",
+        "end": 22,
+        "start": 11,
+        "value": "final offer"
+    },
+    "SentenceID_181": {
+        "text": "propose us best offer",
+        "end": 21,
+        "start": 11,
+        "value": "best offer"
+    },
+    "SentenceID_182": {
+        "text": "propose us best rate",
+        "end": 20,
+        "start": 11,
+        "value": "best rate"
+    },
+    "SentenceID_183": {
+        "text": "propose us discount",
+        "end": 19,
+        "start": 11,
+        "value": "discount"
+    },
+    "SentenceID_184": {
+        "text": "propose us last price",
+        "end": 21,
+        "start": 11,
+        "value": "last price"
+    },
+    "SentenceID_185": {
+        "text": "propose us last rate",
+        "end": 20,
+        "start": 11,
+        "value": "last rate"
+    },
+    "SentenceID_186": {
+        "text": "propose us max discount",
+        "end": 23,
+        "start": 11,
+        "value": "max discount"
+    },
+    "SentenceID_187": {
+        "text": "propose us maximum discount",
+        "end": 27,
+        "start": 11,
+        "value": "maximum discount"
+    },
+    "SentenceID_188": {
+        "text": "Is it best price",
+        "end": 16,
+        "start": 6,
+        "value": "best price"
+    },
+    "SentenceID_189": {
+        "text": "Is it best prices",
+        "end": 17,
+        "start": 6,
+        "value": "best prices"
+    },
+    "SentenceID_190": {
+        "text": "Is it final price",
+        "end": 17,
+        "start": 6,
+        "value": "final price"
+    },
+    "SentenceID_191": {
+        "text": "Is it final offer",
+        "end": 17,
+        "start": 6,
+        "value": "final offer"
+    },
+    "SentenceID_192": {
+        "text": "Is it best offer",
+        "end": 16,
+        "start": 6,
+        "value": "best offer"
+    },
+    "SentenceID_193": {
+        "text": "Is it best rate",
+        "end": 15,
+        "start": 6,
+        "value": "best rate"
+    },
+    "SentenceID_194": {
+        "text": "Is it discount",
+        "end": 14,
+        "start": 6,
+        "value": "discount"
+    },
+    "SentenceID_195": {
+        "text": "Is it last price",
+        "end": 16,
+        "start": 6,
+        "value": "last price"
+    },
+    "SentenceID_196": {
+        "text": "Is it last rate",
+        "end": 15,
+        "start": 6,
+        "value": "last rate"
+    },
+    "SentenceID_197": {
+        "text": "Is it max discount",
+        "end": 18,
+        "start": 6,
+        "value": "max discount"
+    },
+    "SentenceID_198": {
+        "text": "Is it maximum discount",
+        "end": 22,
+        "start": 6,
+        "value": "maximum discount"
+    }
+}
