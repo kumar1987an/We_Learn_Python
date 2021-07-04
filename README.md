@@ -1,2 +1,2 @@
 # We_Learn_Python
-This Repository is to Learn, Blog, Teach Python and related tools 
+This repository is for Learning Python with a highly enthusiastic DXC Python developer community
