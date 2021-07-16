@@ -1,4 +1,4 @@
-## Due to Python's portability it can run on any operating system unless no system-dependent feature in our python code let's see the fascinating areas python shines.
+## Let's see the fascinating areas python shines.
 
 <br>
 
@@ -8,14 +8,14 @@
 
 + Django, Pyramid, Flask, Bottle
 
-+ These are the frameworks that are packed with std libraries and modules which simplifies tasks like content management, database interaction and interfacing with internet protocols like HTTP, SMTP, XML, JSON, FTP, IMAP and POP
++ These are the frameworks that are packed with std libraries and modules which simplifies the REST APIs architecture by using protocols like HTTP, SMTP, XML, JSON etc
 
 <br>
 
 > **Game Development**
 
 
-+ Libraries like PySoy, PyGame.
++ Library like PyGame, Pyglet, PyKyra, PyOpenGL
 
 + Python is the foundation for popular games like Battlefield 2, Frets on Fire, World of Tanks, Disney's Toontown online, Vega Strike and Civilization-IV. 
 Python is used as a scripting language by many game engines.
